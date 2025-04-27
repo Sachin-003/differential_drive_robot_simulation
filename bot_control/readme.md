@@ -9,7 +9,7 @@ This package contains the **Laser Filter Node** that subscribes to the original 
 To start the node, use the following command:
 
 ```bash
-ros2 run bot_control laser_filter_node
+ros2 run bot_control bot_control.launch.py
 ```
 ## Topics
 ```bash
