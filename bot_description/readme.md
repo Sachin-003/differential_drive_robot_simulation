@@ -21,13 +21,7 @@ ros2 launch bot_description rviz.launch.py
 ```
 
 ### 3. Control Robot via Teleop
-To control the robot using teleop_twist_keyboard, run:ROS2 Jazzy
-
-Gazebo
-
-RViz
-
-teleop_twist_keyboard package
+To control the robot using teleop_twist_keyboard,
 
 ```bash
 ros2 launch bot_description control.launch.py
